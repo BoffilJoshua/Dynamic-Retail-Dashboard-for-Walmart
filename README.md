@@ -52,5 +52,5 @@ Based on the current performance trends:
 
 ## 📬 Contact
 If you have any feedback or questions about this project, feel free to connect:
-- **GitHub:** [[Your GitHub Profile Link](#)](https://github.com/BoffilJoshua)
+- **GitHub:** https://github.com/BoffilJoshua
 - **LinkedIn:** www.linkedin.com/in/boffil-joshua-b17822169
