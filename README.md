@@ -41,10 +41,16 @@ Based on the current performance trends:
 - Improving operational efficiency and focusing on top-selling, high-margin products will be key to driving future growth.
 - The dashboard allows management to **slice and filter data dynamically**, ensuring quick, data-driven decisions.
 
----
+---## 📷 Dashboard Preview
+*<img width="1388" height="667" alt="image" src="https://github.com/user-attachments/assets/a2c0a380-cca2-4dd5-8bbe-b65111c0d95e" />*
 
 ## 🛠 Tools & Skills Used
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
 - Data Cleaning & Transformation
 - KPI Analysis
 - Dashboard Design & Visualization
+
+## 📬 Contact
+If you have any feedback or questions about this project, feel free to connect:
+- **GitHub:** [[Your GitHub Profile Link](#)](https://github.com/BoffilJoshua)
+- **LinkedIn:** www.linkedin.com/in/boffil-joshua-b17822169
