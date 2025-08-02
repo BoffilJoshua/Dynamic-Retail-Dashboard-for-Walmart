@@ -45,8 +45,7 @@ Based on the current performance trends:
 *<img width="1388" height="667" alt="image" src="https://github.com/user-attachments/assets/a2c0a380-cca2-4dd5-8bbe-b65111c0d95e" />*
 
 ## 📂 Project Files
-- `[Walmart Dashboard.xlsx](https://github.com/BoffilJoshua/Dynamic-Retail-Dashboard-for-Walmart/blob/main/Wallmart%20Dashboard.xlsx)`
-- – Excel dashboard file with interactive slicers and charts.
+- https://github.com/BoffilJoshua/Dynamic-Retail-Dashboard-for-Walmart/blob/main/Wallmart%20Dashboard.xlsx – Excel dashboard file with interactive slicers and charts.
 
 ## 🛠 Tools & Skills Used
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
