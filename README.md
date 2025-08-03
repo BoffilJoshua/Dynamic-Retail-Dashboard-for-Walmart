@@ -42,7 +42,7 @@ Based on the current performance trends:
 - The dashboard allows management to **slice and filter data dynamically**, ensuring quick, data-driven decisions.
 
 ---## 📷 Dashboard Preview
-*<img width="1387" height="667" alt="image" src="https://github.com/user-attachments/assets/60898625-8a04-4167-823c-053eb747583d" />*
+*<img width="1393" height="663" alt="image" src="https://github.com/user-attachments/assets/3dd15d0b-a425-44a7-af7d-2efc1c982f10" />*
 
 ## 📂 Project Files
 - https://github.com/BoffilJoshua/Dynamic-Retail-Dashboard-for-Walmart/blob/main/Wallmart%20Dashboard.xlsx – Excel dashboard file with interactive slicers and charts.
